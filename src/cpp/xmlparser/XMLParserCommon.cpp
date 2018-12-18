@@ -281,6 +281,7 @@ const char* ENUMERATOR = "enumerator";
 const char* NON_BASIC_TYPE = "nonBasic";
 const char* NON_BASIC_TYPE_NAME = "nonBasicTypeName";
 const char* KEY = "key";
+const char* MEMBER = "member";
 
 } /* xmlparser */
 } /* namespace */
